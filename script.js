@@ -4,4 +4,3 @@ function myFunction() {
     x.appendChild(t);
     document.body.appendChild(x);
   }
-  
